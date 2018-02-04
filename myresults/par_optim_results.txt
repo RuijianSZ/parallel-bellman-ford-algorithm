@@ -1,0 +1,49 @@
+===== Optimized parallel =====
+
+N_V = 256 ITERATION1
+Command: ./par-optim 256 4
+Elapsed time: 0.001255
+N_V = 256 ITERATION2
+Command: ./par-optim 256 4
+Elapsed time: 0.001036
+N_V = 256 ITERATION3
+Command: ./par-optim 256 4
+Elapsed time: 0.001033
+N_V = 256 ITERATION4
+Command: ./par-optim 256 4
+Elapsed time: 0.000956
+N_V = 256 ITERATION5
+Command: ./par-optim 256 4
+Elapsed time: 0.000939
+
+N_V = 512 ITERATION1
+Command: ./par-optim 512 4
+Elapsed time: 0.003813
+N_V = 512 ITERATION2
+Command: ./par-optim 512 4
+Elapsed time: 0.003081
+N_V = 512 ITERATION3
+Command: ./par-optim 512 4
+Elapsed time: 0.003756
+N_V = 512 ITERATION4
+Command: ./par-optim 512 4
+Elapsed time: 0.003721
+N_V = 512 ITERATION5
+Command: ./par-optim 512 4
+Elapsed time: 0.002692
+
+N_V = 1024 ITERATION1
+Command: ./par-optim 1024 4
+Elapsed time: 0.018330
+N_V = 1024 ITERATION2
+Command: ./par-optim 1024 4
+Elapsed time: 0.012365
+N_V = 1024 ITERATION3
+Command: ./par-optim 1024 4
+Elapsed time: 0.018562
+N_V = 1024 ITERATION4
+Command: ./par-optim 1024 4
+Elapsed time: 0.018261
+N_V = 1024 ITERATION5
+Command: ./par-optim 1024 4
+Elapsed time: 0.012416

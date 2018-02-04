@@ -1,0 +1,49 @@
+===== Sequential =====
+
+N_V = 256 ITERATION1
+Command: ./seq 256
+Elapsed time: 0.055365
+N_V = 256 ITERATION2
+Command: ./seq 256
+Elapsed time: 0.054249
+N_V = 256 ITERATION3
+Command: ./seq 256
+Elapsed time: 0.055379
+N_V = 256 ITERATION4
+Command: ./seq 256
+Elapsed time: 0.056388
+N_V = 256 ITERATION5
+Command: ./seq 256
+Elapsed time: 0.053749
+
+N_V = 512 ITERATION1
+Command: ./seq 512
+Elapsed time: 0.531539
+N_V = 512 ITERATION2
+Command: ./seq 512
+Elapsed time: 0.531867
+N_V = 512 ITERATION3
+Command: ./seq 512
+Elapsed time: 0.548370
+N_V = 512 ITERATION4
+Command: ./seq 512
+Elapsed time: 0.529987
+N_V = 512 ITERATION5
+Command: ./seq 512
+Elapsed time: 0.531553
+
+N_V = 1024 ITERATION1
+Command: ./seq 1024
+Elapsed time: 6.572699
+N_V = 1024 ITERATION2
+Command: ./seq 1024
+Elapsed time: 6.581509
+N_V = 1024 ITERATION3
+Command: ./seq 1024
+Elapsed time: 6.597555
+N_V = 1024 ITERATION4
+Command: ./seq 1024
+Elapsed time: 6.229785
+N_V = 1024 ITERATION5
+Command: ./seq 1024
+Elapsed time: 6.671669

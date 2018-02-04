@@ -1,0 +1,49 @@
+===== Naive parallel =====
+
+N_V = 256 ITERATION1
+Command: ./par-naive 256 4
+Elapsed time: 0.018737
+N_V = 256 ITERATION2
+Command: ./par-naive 256 4
+Elapsed time: 0.017463
+N_V = 256 ITERATION3
+Command: ./par-naive 256 4
+Elapsed time: 0.024292
+N_V = 256 ITERATION4
+Command: ./par-naive 256 4
+Elapsed time: 0.033375
+N_V = 256 ITERATION5
+Command: ./par-naive 256 4
+Elapsed time: 0.017903
+
+N_V = 512 ITERATION1
+Command: ./par-naive 512 4
+Elapsed time: 0.151259
+N_V = 512 ITERATION2
+Command: ./par-naive 512 4
+Elapsed time: 0.257720
+N_V = 512 ITERATION3
+Command: ./par-naive 512 4
+Elapsed time: 0.150122
+N_V = 512 ITERATION4
+Command: ./par-naive 512 4
+Elapsed time: 0.289404
+N_V = 512 ITERATION5
+Command: ./par-naive 512 4
+Elapsed time: 0.199252
+
+N_V = 1024 ITERATION1
+Command: ./par-naive 1024 4
+Elapsed time: 3.380722
+N_V = 1024 ITERATION2
+Command: ./par-naive 1024 4
+Elapsed time: 2.113355
+N_V = 1024 ITERATION3
+Command: ./par-naive 1024 4
+Elapsed time: 1.891446
+N_V = 1024 ITERATION4
+Command: ./par-naive 1024 4
+Elapsed time: 3.379345
+N_V = 1024 ITERATION5
+Command: ./par-naive 1024 4
+Elapsed time: 1.801446
