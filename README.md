@@ -1,7 +1,10 @@
 # CSC299-GPU-computing
-use CUDA to accelerate SSSP problem algorithm
+use CUDA to accelerate the Bellman-Ford algorithm
 
-Implement the
-1) Sequential version of the Bellman-Ford algorithm
-2) Naive parallel implementation
-3) Work efficient and stream-optimized parallel implementation 
+In this project, the Bellman-Ford algorithm are implemented in different ways.
+
+1) Sequential implementation (in C)
+2) Multithreaded CPU implementation (pthread)
+3) Naive/Optimized GPU implementation (CUDA C)
+
+The optimized GPU  implementation gains a speedup of 167x over the naive parallel GPU version and 10.6x over the optimized parallel CPU version for large graphs with up to 20000 vertices.
