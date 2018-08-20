@@ -1,4 +1,4 @@
-# CSC299-GPU-computing
+# Parallel Bellman-Ford algorithm
 use CUDA to accelerate the Bellman-Ford algorithm
 
 In this project, the Bellman-Ford algorithm is implemented in different ways.
